@@ -30,7 +30,7 @@ to collect packages in the real world.
 2. Tap when the reticle appears to place the car.
 3. Drive the car and collect the packages.
 
-<img width="500" height="1004" alt="WhatsApp Image 2026-10-09 at 9 17 26 PM" src="https://github.com/user-attachments/assets/551011be-3c8f-49ee-ad72-c4ec135c76cc" />
+<img width="500" height="504" alt="WhatsApp Image 2026-10-09 at 9 17 26 PM" src="https://github.com/user-attachments/assets/551011be-3c8f-49ee-ad72-c4ec135c76cc" />
 
 
 -Author
